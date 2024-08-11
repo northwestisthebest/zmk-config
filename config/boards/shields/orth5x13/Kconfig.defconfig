@@ -1,0 +1,6 @@
+if SHIELD_ORTH5X13
+
+config ZMK_KEYBOARD_NAME
+    default "orth5x13"
+
+endif
